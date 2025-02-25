@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Aleks Blog</title>
+    <link href="https://a160v.me/feed.xml" rel="self" />
+    <link href="https://a160v.me" />
+    <updated>2025-02-25T22:18:40+01:00</updated>
+    <author>
+        <name>Aleks</name>
+    </author>
+    <id>https://a160v.me</id>
+
+    <entry>
+        <title>Interoperability: an introductory course</title>
+        <author>
+            <name>Aleks</name>
+        </author>
+        <link href="https://a160v.me/interoperability-an-introductory-course.html"/>
+        <id>https://a160v.me/interoperability-an-introductory-course.html</id>
+            <category term="Notes"/>
+            <category term="Interoperability"/>
+            <category term="EU Academy"/>
+
+        <updated>2025-02-25T12:03:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                    1. Interoperability: an introduction Interoperability is the ability to ability of organization&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>1. Interoperability: an introduction</h1>
+<p class="msg msg--highlight  msg--info">Interoperability is the ability to ability of organization to interact with each other across systems and processes to achieve common goals. It involves the sharing of information and knowledge through the business processes by mean of exchange of data between ICT systems.</p>
+<p>The concept of interoperability is not new: the internet protocol is the most important building block. The main needs for interoperability is:</p>
+<ul>
+<li>reducing administrative burden for European Union citizens when traveling or relocating to another European Union country.</li>
+<li>acceding to public services involving multiple governmental agencies, as well as actors from the private sector.</li>
+</ul>
+<p>Even though the results of interoperability are obvious when achieve, the path is complex and requires:</p>
+<ul>
+<li>amendments of existing legislation to facilitate interoperable service provision</li>
+<li>coordination and business process alignment among different competent authorities that must contribute to the implementation of the service</li>
+<li>restrictions that derive from the legacy information systems that are involved in the service provision</li>
+</ul>
+<h1> </h1>
+<h1>2. <strong>European Union's position towards interoperability</strong></h1>
+<p class="dropcap">As part of the, Digital Decade Strategy, the European Commission is helping the Public Administrations across Europe to access digitally all public services to all European Union citizens and businesses by 2030. The focus is on reducing the barriers between the different public services, ensuring accessibility throughout sectors and borders. Such digital transformation plan is not only ambitious but also complex and interoperability is key in tackling such barriers by:</p>
+<ul>
+<li>Minimizing administrative burden </li>
+<li>Reducing cost, time and delivery for Public Administration, citizens and businesses</li>
+<li>Facilitating re-use of digital tools</li>
+<li>Improving security of digital tools</li>
+<li>Improving decision making through data sharing</li>
+<li>Fostering innovation through direct impact on development and competitiveness of Europe</li>
+<li>Accelerating achievement of strategic objectives and implementation of public policies, protecting both public interest and citizens rights</li>
+</ul>
+<p class="dropcap">Services constitute a large part of the European Union economy. Freedom to provide services cross-border is assured by common policies supported by interconnected and interoperable network and systems. As European Union citizens are free to travel and relocate across different European Union countries than their home one, they interact with multiple public administrations. Regulations required by every Member State to set up a services company are managed by EUGO, a network of national coordinators from European Union Member States.</p>
+<p class="dropcap">Thanks to the IT tools (developed by the European Commission) for the validation of digital signature developed by the European Commission, the documents can be digitally signed, allowing online authenticity and verification. Here below are some examples that require interoperability to function (screenshot from the course material):</p>
+<figure class="post__image"><img decoding="async"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://a160v.me/media/posts/8//Screenshot-2025-02-25-at-11.58.19.png" alt="" width="1664" height="574" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-xs.png 320w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-sm.png 480w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-md.png 768w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-xl.png 1024w"></figure><figure class="post__image"><img decoding="async" loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://a160v.me/media/posts/8//Screenshot-2025-02-25-at-12.00.22.png" alt="" width="1624" height="592" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-xs.png 320w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-sm.png 480w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-md.png 768w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-xl.png 1024w"></figure>
+<h1> </h1>
+<h1>3. Case study: automated social energy tariff developed in Portugal</h1>
+<p class="dropcap">In 2016, Portugal developed an automated social energy tariff developed, which aimed to grant social benefit to low-income families, without even asking for it. The tariff is an example of interoperability across sectors (public and private), and across government services at the benefit of citizens, ultimately ensuring equal treatment in front of the law.</p>
+<p>The Portuguese Interoperability Platform allowed the following data to be shared across actors from different sectors and government services, through open standards:</p>
+<ul>
+<li>Income data from tax authority</li>
+<li>Contracts information from energy supplier</li>
+<li>Benefits data from the social security institution</li>
+</ul>
+<p>Achieving such benefits required <strong>major updates in regulations</strong>:</p>
+<ol>
+<li>First, the required exchange of data and business rules are established among the actors for the provision of the service</li>
+<li>Exchanged datasets are kept to a minimum for privacy reasons: instead of sharing sensible citizen data, only a data confirming eligibility of the service is shared (e.g. "does citizen John Doe is eligible to this benefit?")</li>
+<li>Ultimately the required data is transferred to energy supplier that generates the energy bills for the citizens, including them either in the social energy tariff of regular tariff.</li>
+</ol>
+<h2>Lessons learnt</h2>
+<ol>
+<li>New interoperable public services require a <strong>specific legal framework</strong> for the allocation of responsibilities among the involved stakeholders, the operation details and obligations.</li>
+<li>Interoperability allow public administration to be <strong>proactive</strong>, reducing citizens administrative burden.</li>
+<li>Interoperable services require strong coordination, interoperability<strong> </strong>agreements among the involved stakeholders with a <strong>clear definition</strong> <strong>regarding the</strong> <strong>tasks</strong> that each one implements and contributes.</li>
+<li>Interoperability platforms accelerate the implementation of new public services, <strong>reusing existing solutions, components and information</strong>.</li>
+<li><strong>Standardisation</strong> is crucial at process level, for data definition and at technical level for the provision of interoperable services.</li>
+<li><strong>Involving political stakeholders</strong> is crucial for the support required for the implementation of a new service.</li>
+</ol>
+<h1> </h1>
+<h1>4. Where to find useful resources</h1>
+<p class="dropcap">Some questions like "<em>How to protect citizens data? How to find and create a semantic standard for data unification?</em>" can be answered through answers found on the <a href="https://interoperable-europe.ec.europa.eu" target="_blank"  class="extlink extlink-icon-7"  rel="ugc noopener noreferrer">Interoperable Platform website.</a> The services available through the<strong> Interoperable Platform</strong> respect the following <strong>standards</strong> (established by European Union law):</p>
+<ul>
+<li><strong>Lawfulness</strong>: data is used only for the indicated service (unless agreed differently by the user).</li>
+<li><strong>Fairness</strong>: data is minimal and necessary for services creation.</li>
+<li><strong>Transparency</strong>: data is protected.</li>
+</ul>
+<p>Other important tools that can be found on the Interoperable Platform website are:</p>
+<ul>
+<li><strong>NIFO</strong> (National Interoperability Framework Observatory) is a monitoring tool to track the progress of the interoperability implementation at national level for each Member State. It contains the latest developments on digital public administration and interoperability across Europe. Gathers information on the state of play of digital public administration and interoperability activities.</li>
+<li><strong>OSOR</strong> (Open Source Observatory) is a multifunctional platform where users can find relevant open source software solutions, read about the use of free and open source, public news and find out about events</li>
+<li><strong>Building blocks</strong>: while they are not addressed the end user, they are important reusable solutions, like eInvoicing and eIdentification. They are built upon the the <strong>Once-Only principle</strong>, which is a base of interoperable solutions, crucial to establish the <strong>Single Digital Gateway</strong>.</li>
+</ul>
+<h1><strong>5. Quiz</strong></h1>
+<table style="border-collapse: collapse; width: 107.265%;" border="1">
+<tbody>
+<tr>
+<th style="width: 7.18085%;"><strong>#</strong></th>
+<th style="width: 22.4713%;"><strong>Question</strong></th>
+<th style="width: 19.1511%;"><strong>Correct Answer</strong></th>
+<th style="width: 21.0106%;"><strong>Student Answer</strong></th>
+<th style="width: 13.8298%;"><strong>Result</strong></th>
+<th style="width: 16.4894%;"><strong>Points Awarded</strong></th>
+</tr>
+<tr>
+<td class="number" style="width: 7.18085%;">1</td>
+<td class="question" style="width: 22.4713%;">Select the sentence that best describes the aspects of interoperability:</td>
+<td style="width: 19.1511%;">Interoperability is about organizations’ mutual goals, business processes, information systems and data exchange</td>
+<td style="width: 21.0106%;">Interoperability is about organizations’ mutual goals, business processes, information systems and data exchange</td>
+<td class="correct" style="width: 13.8298%;">Correct</td>
+<td style="width: 16.4894%;">10</td>
+</tr>
+<tr>
+<td class="number" style="width: 7.18085%;">2</td>
+<td class="question" style="width: 22.4713%;">Select one or more sentences that can be potential barriers that hinder interoperability:</td>
+<td style="width: 19.1511%;">legacy information systems , lack of the appropriate legislation</td>
+<td style="width: 21.0106%;">legacy information systems , lack of the appropriate legislation</td>
+<td class="correct" style="width: 13.8298%;">Correct</td>
+<td style="width: 16.4894%;">10</td>
+</tr>
+<tr>
+<td class="number" style="width: 7.18085%;">3</td>
+<td class="question" style="width: 22.4713%;">Interoperability is the cornerstone of digital transformation because it contributes to:</td>
+<td style="width: 19.1511%;">effective and efficient digital public services</td>
+<td style="width: 21.0106%;">effective and efficient digital public services</td>
+<td class="correct" style="width: 13.8298%;">Correct</td>
+<td style="width: 16.4894%;">10</td>
+</tr>
+<tr>
+<td class="number" style="width: 7.18085%;">4</td>
+<td class="question" style="width: 22.4713%;">European Single Market requires interoperability to:</td>
+<td style="width: 19.1511%;">guarantee business the freedom to provide services cross-border as if it were in their country</td>
+<td style="width: 21.0106%;">guarantee business the freedom to provide services cross-border as if it were in their country</td>
+<td class="correct" style="width: 13.8298%;">Correct</td>
+<td style="width: 16.4894%;">10</td>
+</tr>
+<tr>
+<td class="number" style="width: 7.18085%;">5</td>
+<td class="question" style="width: 22.4713%;">Select one or more sentences that explain why offering cross border excursion tourism services is a good example of an interoperable public service:</td>
+<td style="width: 19.1511%;">Its’ procedures have been simplified due to interoperability , It tackles several European Interoperability Framework layers (e.g., Legal, Organizational and Technical)</td>
+<td style="width: 21.0106%;">Its’ procedures have been simplified due to interoperability , Services constitute a large and increasing part of the EU economies</td>
+<td class="incorrect" style="width: 13.8298%;">Incorrect</td>
+<td style="width: 16.4894%;">0</td>
+</tr>
+<tr>
+<td class="number" style="width: 7.18085%;">6</td>
+<td class="question" style="width: 22.4713%;">Select the sentence that best describes what the design, implementation and delivery of an interoperable public service requires:</td>
+<td style="width: 19.1511%;">appropriate legal framework, strong coordination, aligned business processes, interoperability platforms and information systems, standardization and political support</td>
+<td style="width: 21.0106%;">appropriate legal framework, strong coordination, aligned business processes, interoperability platforms and information systems, standardization and political support</td>
+<td class="correct" style="width: 13.8298%;">Correct</td>
+<td style="width: 16.4894%;">10</td>
+</tr>
+<tr>
+<td class="number" style="width: 7.18085%;">7</td>
+<td class="question" style="width: 22.4713%;">Select the sentence that best describes the type of information systems an interoperable public services can involve:</td>
+<td style="width: 19.1511%;">both the public and private sector information systems</td>
+<td style="width: 21.0106%;">both the public and private sector information systems</td>
+<td class="correct" style="width: 13.8298%;">Correct</td>
+<td style="width: 16.4894%;">10</td>
+</tr>
+<tr>
+<td class="number" style="width: 7.18085%;">8</td>
+<td class="question" style="width: 22.4713%;">An interoperability platform is:</td>
+<td style="width: 19.1511%;">a common platform for the exchange of data between information systems involved in the provision of an interoperable public service</td>
+<td style="width: 21.0106%;">a common platform for the exchange of data between information systems involved in the provision of an interoperable public service</td>
+<td class="correct" style="width: 13.8298%;">Correct</td>
+<td style="width: 16.4894%;">10</td>
+</tr>
+<tr>
+<td class="number" style="width: 7.18085%;">9</td>
+<td class="question" style="width: 22.4713%;">Select one or more sentences that show how can data privacy be protected in the context of an interoperable public service:</td>
+<td style="width: 19.1511%;">The minimal required data are exchanged and used only for the purpose of the service and cannot be reused for other purposes , Data are exchanged according to the provisions of a specific legislative act</td>
+<td style="width: 21.0106%;">The minimal required data are exchanged and used only for the purpose of the service and cannot be reused for other purposes , Data are exchanged according to the provisions of a specific legislative act</td>
+<td class="correct" style="width: 13.8298%;">Correct</td>
+<td style="width: 16.4894%;">10</td>
+</tr>
+<tr>
+<td class="number" style="width: 7.18085%;">10</td>
+<td class="question" style="width: 22.4713%;">The National Interoperability Framework Observatory (NIFO) acts as a:</td>
+<td style="width: 19.1511%;">monitoring tool for the state of play of digital public administration and interoperability activities</td>
+<td style="width: 21.0106%;">monitoring tool for the state of play of digital public administration and interoperability activities</td>
+<td class="correct" style="width: 13.8298%;">Correct</td>
+<td style="width: 16.4894%;">10</td>
+</tr>
+</tbody>
+</table>
+<h1><a href="https://a160v.me/media/files/Certificate_of_Completion-Interoperability_an_introductory course.pdf" target="_blank" rel="noopener noreferrer" download>6. View my certificate of achievement</a><figure class="post__image"><img decoding="async" loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure></h1>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The purpose of this blog</title>
+        <author>
+            <name>Aleks</name>
+        </author>
+        <link href="https://a160v.me/the-purpose-of-this-blog.html"/>
+        <id>https://a160v.me/the-purpose-of-this-blog.html</id>
+            <category term="Social Media"/>
+            <category term="Blogging"/>
+
+        <updated>2025-02-09T14:23:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                    The web is a vast space where one can find almost everything&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The web is a vast space where one can find almost everything they need or get lost.</p>
+<p><strong>Social media</strong> have pervaded my life, to the same extent as the internet itself. However, they are privately owned, with terms of use that change at their own please. <em>Cela va sans dire</em> that data is collected, mined and refined to feed a platform that can sell services to advertisers.</p>
+<p>So I decided to have my own space on the internet decluttered and far from distractions, so I can focus on thinking analytically and creatively.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>First blog post</title>
+        <author>
+            <name>Aleks</name>
+        </author>
+        <link href="https://a160v.me/first-blog-post.html"/>
+        <id>https://a160v.me/first-blog-post.html</id>
+            <category term="The First One"/>
+
+        <updated>2025-01-28T13:48:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello world! 🌎 👋
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello world! 🌎 👋</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

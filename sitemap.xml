@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://a160v.me/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://a160v.me/</loc>
+</url>
+<url>
+<loc>https://a160v.me/about.html</loc>
+<lastmod>2025-02-23T09:16:55+01:00</lastmod>
+<image:image>
+<image:loc>https://a160v.me/media/posts/2/portrait-round.png</image:loc>
+<image:title><![CDATA[portrait-aleks-round]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://a160v.me/contact.html</loc>
+<lastmod>2025-02-23T22:46:25+01:00</lastmod>
+</url>
+<url>
+<loc>https://a160v.me/first-blog-post.html</loc>
+<lastmod>2025-02-25T22:18:40+01:00</lastmod>
+</url>
+<url>
+<loc>https://a160v.me/interoperability-an-introductory-course.html</loc>
+<lastmod>2025-02-25T20:19:33+01:00</lastmod>
+<image:image>
+<image:loc>https://a160v.me/media/posts/8//Screenshot-2025-02-25-at-11.58.19.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://a160v.me/media/posts/8//Screenshot-2025-02-25-at-12.00.22.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://a160v.me/the-purpose-of-this-blog.html</loc>
+<lastmod>2025-02-25T20:20:01+01:00</lastmod>
+</url>
+</urlset>
