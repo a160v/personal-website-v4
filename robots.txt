@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://a160v.me/sitemap.xml
+Sitemap: http://a160v.me/sitemap.xml

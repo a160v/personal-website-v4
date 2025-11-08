@@ -1,1 +1,1 @@
-Canonical: https://a160v.me/security.txt
+Canonical: http://a160v.me/security.txt

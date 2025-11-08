@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Aleks Blog</title>
-    <link href="https://a160v.me/feed.xml" rel="self" />
-    <link href="https://a160v.me" />
+    <link href="http://a160v.me/feed.xml" rel="self" />
+    <link href="http://a160v.me" />
     <updated>2025-04-24T12:58:25+02:00</updated>
     <author>
         <name>Aleks</name>
     </author>
-    <id>https://a160v.me</id>
+    <id>http://a160v.me</id>
 
     <entry>
         <title>Albania’s Steady Ascent on the EU Accession Path</title>
         <author>
             <name>Aleks</name>
         </author>
-        <link href="https://a160v.me/albanias-steady-ascent-on-the-eu-accession-path.html"/>
-        <id>https://a160v.me/albanias-steady-ascent-on-the-eu-accession-path.html</id>
+        <link href="http://a160v.me/albanias-steady-ascent-on-the-eu-accession-path.html"/>
+        <id>http://a160v.me/albanias-steady-ascent-on-the-eu-accession-path.html</id>
             <category term="EU enlargement"/>
             <category term="Albania"/>
 
         <updated>2025-04-22T17:22:43+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Albania’s journey towards European Union membership has been marked by determination, reform,&hellip;
                 ]]>
@@ -28,8 +28,8 @@
         <content type="html">
             <![CDATA[
                 <p>Albania’s journey towards European Union membership has been marked by determination, reform, and a clear vision for the future. Since applying for EU membership in 2009 and gaining candidate status in 2014, Albania has steadily advanced through the complex accession process. The official opening of accession negotiations in July 2022 marked a pivotal moment, signaling the EU’s recognition of Albania’s progress and commitment to European standards.
-<figure class="post__image"><img decoding="async" loading="lazy" src="https://a160v.me/media/posts/13/Albania-accession-process.png" alt="Image description" width="1084" height="230"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://a160v.me/media/posts/13/responsive/Albania-accession-process-xs.png 320w ,https://a160v.me/media/posts/13/responsive/Albania-accession-process-sm.png 480w ,https://a160v.me/media/posts/13/responsive/Albania-accession-process-md.png 768w ,https://a160v.me/media/posts/13/responsive/Albania-accession-process-xl.png 1024w"></figure></p><p>The accession process is structured around 35 negotiating chapters, grouped into thematic clusters. Each chapter must be opened, negotiated, and closed, ensuring that candidate countries fully align their institutions, laws, and practices with the EU acquis. 
-<figure class="post__image"><img decoding="async" loading="lazy" src="https://a160v.me/media/posts/13/Screenshot-2025-04-24-at-12.54.47.png" alt="Image description" width="1146" height="1282"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://a160v.me/media/posts/13/responsive/Screenshot-2025-04-24-at-12.54.47-xs.png 320w ,https://a160v.me/media/posts/13/responsive/Screenshot-2025-04-24-at-12.54.47-sm.png 480w ,https://a160v.me/media/posts/13/responsive/Screenshot-2025-04-24-at-12.54.47-md.png 768w ,https://a160v.me/media/posts/13/responsive/Screenshot-2025-04-24-at-12.54.47-xl.png 1024w"></figure></p><p>Albania’s government has set an ambitious goal to be ready for accession by 2030, a timeline described as “very ambitious” by Prime Minister Edi Rama. This aspiration is underpinned by a comprehensive reform agenda, with a strong focus on the rule of law, anti-corruption, and modernization of public administration.</p><h2 id="the-internal-market-cluster-a-cornerstone-for-integration">The “Internal Market” Cluster: A Cornerstone for Integration</h2>
+<figure class="post__image"><img decoding="async" loading="lazy" src="http://a160v.me/media/posts/13/Albania-accession-process.png" alt="Image description" width="1084" height="230" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="http://a160v.me/media/posts/13/responsive/Albania-accession-process-xs.png 320w ,http://a160v.me/media/posts/13/responsive/Albania-accession-process-sm.png 480w ,http://a160v.me/media/posts/13/responsive/Albania-accession-process-md.png 768w ,http://a160v.me/media/posts/13/responsive/Albania-accession-process-xl.png 1024w"></figure></p><p>The accession process is structured around 35 negotiating chapters, grouped into thematic clusters. Each chapter must be opened, negotiated, and closed, ensuring that candidate countries fully align their institutions, laws, and practices with the EU acquis. 
+<figure class="post__image"><img decoding="async" loading="lazy" src="http://a160v.me/media/posts/13/Screenshot-2025-04-24-at-12.54.47.png" alt="Image description" width="1146" height="1282" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="http://a160v.me/media/posts/13/responsive/Screenshot-2025-04-24-at-12.54.47-xs.png 320w ,http://a160v.me/media/posts/13/responsive/Screenshot-2025-04-24-at-12.54.47-sm.png 480w ,http://a160v.me/media/posts/13/responsive/Screenshot-2025-04-24-at-12.54.47-md.png 768w ,http://a160v.me/media/posts/13/responsive/Screenshot-2025-04-24-at-12.54.47-xl.png 1024w"></figure></p><p>Albania’s government has set an ambitious goal to be ready for accession by 2030, a timeline described as “very ambitious” by Prime Minister Edi Rama. This aspiration is underpinned by a comprehensive reform agenda, with a strong focus on the rule of law, anti-corruption, and modernization of public administration.</p><h2 id="the-internal-market-cluster-a-cornerstone-for-integration">The “Internal Market” Cluster: A Cornerstone for Integration</h2>
 <p>A significant milestone was reached in April 2025, when the European Council opened negotiations with Albania on the “internal market” cluster. This cluster is central to the EU’s single market, covering:</p><ul>
 <li>Free movement of goods</li>
 <li>Freedom of movement for workers</li>
@@ -52,15 +52,15 @@ The journey may be long, but Albania is undoubtedly on the right track.</p>
         <author>
             <name>Aleks</name>
         </author>
-        <link href="https://a160v.me/european-interoperability-framework.html"/>
-        <id>https://a160v.me/european-interoperability-framework.html</id>
+        <link href="http://a160v.me/european-interoperability-framework.html"/>
+        <id>http://a160v.me/european-interoperability-framework.html</id>
             <category term="Interoperability"/>
             <category term="European Interoperability Framework"/>
             <category term="EU regulations"/>
             <category term="EU Academy"/>
 
         <updated>2025-02-26T19:02:04+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     These are notes from the course "Interoperability: an introductory course" which can&hellip;
                 ]]>
@@ -107,14 +107,14 @@ The journey may be long, but Albania is undoubtedly on the right track.</p>
         <author>
             <name>Aleks</name>
         </author>
-        <link href="https://a160v.me/interoperability-an-introductory-course.html"/>
-        <id>https://a160v.me/interoperability-an-introductory-course.html</id>
+        <link href="http://a160v.me/interoperability-an-introductory-course.html"/>
+        <id>http://a160v.me/interoperability-an-introductory-course.html</id>
             <category term="Notes"/>
             <category term="Interoperability"/>
             <category term="EU Academy"/>
 
         <updated>2025-02-25T12:03:46+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     These are notes from the course "Interoperability: an introductory course" which can&hellip;
                 ]]>
@@ -163,7 +163,7 @@ The journey may be long, but Albania is undoubtedly on the right track.</p>
 </ul>
 <p class="dropcap">Services constitute a large part of the European Union economy. Freedom to provide services cross-border is assured by common policies supported by interconnected and interoperable network and systems. As European Union citizens are free to travel and relocate across different European Union countries than their home one, they interact with multiple public administrations. Regulations required by every Member State to set up a services company are managed by EUGO, a network of national coordinators from European Union Member States.</p>
 <p class="dropcap">Thanks to the IT tools (developed by the European Commission) for the validation of digital signature developed by the European Commission, the documents can be digitally signed, allowing online authenticity and verification. Here below are some examples that require interoperability to function (screenshot from the course material):</p>
-<figure class="post__image"><img decoding="async"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://a160v.me/media/posts/8//Screenshot-2025-02-25-at-11.58.19.png" alt="" width="1664" height="574" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-xs.png 320w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-sm.png 480w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-md.png 768w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-xl.png 1024w"></figure><figure class="post__image"><img decoding="async" loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://a160v.me/media/posts/8//Screenshot-2025-02-25-at-12.00.22.png" alt="" width="1624" height="592" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-xs.png 320w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-sm.png 480w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-md.png 768w ,https://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-xl.png 1024w"></figure>
+<figure class="post__image"><img decoding="async"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="http://a160v.me/media/posts/8//Screenshot-2025-02-25-at-11.58.19.png" alt="" width="1664" height="574" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="http://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-xs.png 320w ,http://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-sm.png 480w ,http://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-md.png 768w ,http://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-11.58.19-xl.png 1024w"></figure><figure class="post__image"><img decoding="async" loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="http://a160v.me/media/posts/8//Screenshot-2025-02-25-at-12.00.22.png" alt="" width="1624" height="592" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="http://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-xs.png 320w ,http://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-sm.png 480w ,http://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-md.png 768w ,http://a160v.me/media/posts/8//responsive/Screenshot-2025-02-25-at-12.00.22-xl.png 1024w"></figure>
 <p id="mcetoc_1il1lo7sp1v"></p>
 <h1 id="mcetoc_1il1lo7sp20">Case study: automated social energy tariff developed in Portugal</h1>
 <p class="dropcap">In 2016, Portugal developed an automated social energy tariff developed, which aimed to grant social benefit to low-income families, without even asking for it. The tariff is an example of interoperability across sectors (public and private), and across government services at the benefit of citizens, ultimately ensuring equal treatment in front of the law.</p>
@@ -295,7 +295,7 @@ The journey may be long, but Albania is undoubtedly on the right track.</p>
 </tr>
 </tbody>
 </table>
-<h1 id="mcetoc_1il1lo7sp25"><a href="https://a160v.me/media/files/Certificate_of_Completion-Interoperability_an_introductory course.pdf" target="_blank" rel="noopener noreferrer" download>My certificate of achievement</a><figure class="post__image"><img decoding="async" loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure></h1>
+<h1 id="mcetoc_1il1lo7sp25"><a href="http://a160v.me/media/files/Certificate_of_Completion-Interoperability_an_introductory course.pdf" target="_blank" rel="noopener noreferrer" download>My certificate of achievement</a><figure class="post__image"><img decoding="async" loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure></h1>
             ]]>
         </content>
     </entry>
@@ -304,13 +304,13 @@ The journey may be long, but Albania is undoubtedly on the right track.</p>
         <author>
             <name>Aleks</name>
         </author>
-        <link href="https://a160v.me/the-purpose-of-this-blog.html"/>
-        <id>https://a160v.me/the-purpose-of-this-blog.html</id>
+        <link href="http://a160v.me/the-purpose-of-this-blog.html"/>
+        <id>http://a160v.me/the-purpose-of-this-blog.html</id>
             <category term="Social Media"/>
             <category term="Blogging"/>
 
         <updated>2025-02-09T14:23:20+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     The web is a vast space where one can find almost everything&hellip;
                 ]]>
@@ -330,12 +330,12 @@ The journey may be long, but Albania is undoubtedly on the right track.</p>
         <author>
             <name>Aleks</name>
         </author>
-        <link href="https://a160v.me/first-blog-post.html"/>
-        <id>https://a160v.me/first-blog-post.html</id>
+        <link href="http://a160v.me/first-blog-post.html"/>
+        <id>http://a160v.me/first-blog-post.html</id>
             <category term="The First One"/>
 
         <updated>2025-01-28T13:48:42+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Hello world! 🌎 👋
                 ]]>
